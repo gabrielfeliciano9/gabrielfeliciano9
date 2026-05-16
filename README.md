@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,eu sou Gabriel Feliciano</h1>
+<h1 align="center">Hello, my name is Gabriel Feliciano</h1>
 <h3 align="center">Software Engineering Student | Brazil</h3>
 
 - 💻 Working with C 
