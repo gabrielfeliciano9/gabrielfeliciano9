@@ -2,7 +2,7 @@
 
 Software Engineering student focused on learning, building projects and improving my skills in technology.
 
-Currently studying C, Java, Git and GitHub.
+Currently studying C, Java, GitHub and Linux.
 
 ## Contact
 
